@@ -1,0 +1,44 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: 100;   
+}
+h1{
+    font-size: 160px;
+    text-align: center;
+}
+h2{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.parallax-0{
+    background: url('https://static.wixstatic.com/media/846d71_a8682526505e475c890f5256b7b4c0d4~mv2.jpg/v1/fill/w_925,h_618,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/846d71_a8682526505e475c890f5256b7b4c0d4~mv2.jpg') repeat fixed 100%;
+    background-size: cover;
+    
+}
+.parallax-1{
+    background: url('https://static.wixstatic.com/media/846d71_5193e67f86ac40b7a1012bcc0da9d7b4~mv2.jpg/v1/fill/w_925,h_616,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/846d71_5193e67f86ac40b7a1012bcc0da9d7b4~mv2.jpg') repeat fixed 100%;
+    background-size: cover;
+    color: aliceblue;
+}
+.parallax-2{
+    background: url('https://static.wixstatic.com/media/846d71_7c76554b902d41838ad26189d09c9f93~mv2.jpg/v1/fill/w_925,h_616,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/846d71_7c76554b902d41838ad26189d09c9f93~mv2.jpg') repeat fixed 100%;
+    background-size: cover;
+    color: aliceblue;
+}
+.parallax-3{
+    background: url('https://i.pinimg.com/originals/72/f2/5b/72f25b678d056e35f8de5405accf6b91.jpg') repeat fixed 100%;
+    background-size: cover;
+    
+}
+.parallax-inner{
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
